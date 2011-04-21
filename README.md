@@ -2,6 +2,8 @@
 
 A Module that simply contains some methods that help out when metaprogramming. 
 
+Source [Source](http://dannytatom.github.com/metaid/ "Source")
+
 # Notice
 
 This gem is very social!  
