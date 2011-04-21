@@ -2,6 +2,11 @@
 
 A Module that simply contains some methods that help out when metaprogramming. 
 
+# Notice
+
+This gem is very social!  
+Be *sure* to follow the guide below to get your code into this gem!
+
 ## Contributing to meta_tools
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
