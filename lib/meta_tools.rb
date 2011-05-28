@@ -26,6 +26,6 @@ module MetaTools
   
   # Send a method to the class
   def class_send(meth, *args, &blk)
-    self.class.send
+    self.class.send(meth, *args, &blk)
   end
 end
